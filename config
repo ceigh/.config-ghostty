@@ -1,7 +1,7 @@
 # https://ghostty.org/docs/config/reference
 
-theme = "dark:github-dark-high-contrast, light:github-light-high-contrast"
-# theme = "github-dark-high-contrast"
+theme = "dark:GitHub-Dark-High-Contrast, light:GitHub-Light-High-Contrast"
+# theme = "GitHub-Dark-High-Contrast"
 
 font-family = "SF Mono Medium"
 font-size = 16
@@ -12,7 +12,8 @@ window-width = 85
 window-height = 999
 macos-titlebar-proxy-icon = "hidden"
 
-quit-after-last-window-closed = true
+# quit-after-last-window-closed = true
+# quit-after-last-window-closed-delay = 2h
 mouse-hide-while-typing = true
 link-url = true
 clipboard-trim-trailing-spaces = true
