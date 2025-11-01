@@ -1,6 +1,7 @@
 # https://ghostty.org/docs/config/reference
 
-theme = "dark:GitHub-Dark-High-Contrast, light:GitHub-Light-High-Contrast"
+# theme = "dark:GitHub-Dark-High-Contrast, light:GitHub-Light-High-Contrast"
+theme = "dark:Alabaster-Dark, light:Alabaster"
 
 font-family = "SF Mono"
 font-family-bold = "SF Mono Bold"
