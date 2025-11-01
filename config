@@ -3,10 +3,12 @@
 # theme = "dark:GitHub-Dark-High-Contrast, light:GitHub-Light-High-Contrast"
 theme = "dark:Alabaster-Dark, light:Alabaster"
 
-font-family = "SF Mono"
-font-family-bold = "SF Mono Bold"
-font-family-italic = "SF Mono Regular Italic"
-font-family-bold-italic = "SF Mono Bold Italic"
+# font-family = "SF Mono"
+# font-family-bold = "SF Mono Bold"
+# font-family-italic = "SF Mono Regular Italic"
+# font-family-bold-italic = "SF Mono Bold Italic"
+font-family = "Fira Mono Regular"
+font-family-bold = "Fira Mono Bold"
 font-size = 16
 # Disable liagatures
 font-feature = "-calt, -liga, -dlig"
