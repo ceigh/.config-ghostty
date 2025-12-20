@@ -4,6 +4,7 @@ theme = "dark:Alabaster-Dark, light:Alabaster"
 
 font-family = "FiraCode Nerd Font"
 font-style = Retina
+font-family-bold = "FiraCode Nerd Font Mono SemBd"
 font-size = 16
 # Disable liagatures
 font-feature = "-calt, -liga, -dlig"
